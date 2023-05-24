@@ -9,3 +9,6 @@ for a next command
 for git 23
 
 i am creating line for 24 05 2023
+ im pushung to git
+
+writting some code on first
