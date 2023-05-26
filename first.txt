@@ -1,1 +1,1 @@
-enter first line
+enter first line ....enter another line into git
