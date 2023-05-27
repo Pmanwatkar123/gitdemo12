@@ -1,4 +1,4 @@
 enter first line .... im adding some changes
-adding new features
+adding new features--add git
 
 addition condition 1 to feature
